@@ -55,9 +55,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products
-* Azure Data Engineering Cookbook [[Packt]](https://www.amazon.com/dp/1803246782?utm_source=github&utm_medium=repository&utm_campaign=9781839218750) [[Amazon]](https://www.amazon.com/dp/1803246782)
+* Azure Data Engineering Cookbook [[Packt]](https://www.packtpub.com/product/azure-data-engineering-cookbook-second-edition/9781803246789) [[Amazon]](https://www.amazon.com/dp/1803246782)
 
-* Artificial Intelligence with Power BI [[Packt]](https://www.amazon.com/dp/1801814635?utm_source=github&utm_medium=repository&utm_campaign=9781803241067) [[Amazon]](https://www.amazon.com/dp/1801814635)
+* Artificial Intelligence with Power BI [[Packt]](https://www.packtpub.com/product/artificial-intelligence-with-power-bi/9781801814638) [[Amazon]](https://www.amazon.com/dp/1801814635)
 
 ## Get to Know the Authors
 **Arshad Ali**
