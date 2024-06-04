@@ -1,0 +1,136 @@
+CustomerKey,WWICustomerID,Customer,BillToCustomer,Category,BuyingGroup,PrimaryContact,PostalCode,ValidFrom,ValidTo,LineageKey
+39,39,"Tailspin Toys (Diablock, KY)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Ashish Acharya,90158,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+40,40,"Tailspin Toys (Impact, TX)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Alena Prikrylova,90326,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+41,41,"Tailspin Toys (Olivette, MO)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Lana Rozej,90042,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+42,42,"Tailspin Toys (Arietta, NY)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Chandrakanta Raut,90124,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+43,43,"Tailspin Toys (Upper Preston, WA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Ganapati Gadiyaram,90687,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+44,44,"Tailspin Toys (Amanda Park, WA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Adrijana Blagojevic,90258,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+45,45,"Tailspin Toys (Severna Park, MD)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Lap Dinh,90326,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+46,46,"Tailspin Toys (Jemison, AL)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Didem ozCelik,90683,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+47,47,"Tailspin Toys (Lake Hughes, CA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Serhat Akbulut,90358,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+48,48,"Tailspin Toys (Trentwood, WA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Daniela Barrios,90615,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+49,49,"Tailspin Toys (Muir, MI)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Julia Slobodova,90717,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+50,50,"Tailspin Toys (Hambleton, WV)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Marcela Jankova,90087,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+51,51,"Tailspin Toys (Imlaystown, NJ)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Dipali Sonkar,90051,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+52,52,"Tailspin Toys (Idria, CA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Bansidhar Mitra,90556,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+53,53,"Tailspin Toys (Nanafalia, AL)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Gunnar Persson,90783,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+54,54,"Tailspin Toys (Railroad, PA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Vitezslav Rehak,90586,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+55,55,"Tailspin Toys (Gum Branch, GA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Bharat Sikdar,90559,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+56,56,"Tailspin Toys (Royal City, WA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Juan Bezanson,90398,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+57,57,"Tailspin Toys (Lakemore, OH)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Aile Mae,90347,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+58,58,"Tailspin Toys (Mappsburg, VA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Pratap Varghese,90678,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+59,59,"Tailspin Toys (Edgartown, MA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Margita Kopecka,90684,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+60,60,"Tailspin Toys (East Dailey, WV)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Lekha Mitra,90548,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+61,61,"Tailspin Toys (Fairfield Glade, TN)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Abhoy PrabhupÄda,90050,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+62,62,"Tailspin Toys (Great Neck Estates, NY)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Alida Caune,90240,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+63,63,"Tailspin Toys (Stallion Springs, CA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Agnes Szolosy,90076,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+64,64,"Tailspin Toys (Hodgdon, ME)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Rohana Kaskar,90673,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+65,65,"Tailspin Toys (North Cowden, TX)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Hanuman Dubey,90406,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+66,66,"Tailspin Toys (Madaket, MA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Bao Dao,90614,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+67,67,"Tailspin Toys (Sentinel Butte, ND)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Preyakshna Aluri,90422,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+68,68,"Tailspin Toys (Gardere, LA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Valentina Conti,90136,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+69,69,"Tailspin Toys (Lytle Creek, CA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Theodore Saucier,90795,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+70,70,"Tailspin Toys (New Baden, IL)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Mariana Fierro,90235,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+71,71,"Tailspin Toys (Good Hart, MI)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Afshin Djalili,90466,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+72,72,"Tailspin Toys (Cortaro, AZ)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Bianh Phan,90351,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+73,73,"Tailspin Toys (Cokato, MN)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Koknesis Vitols,90311,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+74,74,"Tailspin Toys (Indios, PR)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Roxane Rastgu,90193,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+75,75,"Tailspin Toys (Windsor Locks, CT)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Vlasta Srbova,90456,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+76,76,"Tailspin Toys (Yewed, OK)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Lata Babu,90308,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+77,77,"Tailspin Toys (Hahira, GA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Airi Vassiljev,90706,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+234,433,"Wingtip Toys (Balko, OK)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Adirake Saenamuang,90584,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+235,434,"Wingtip Toys (Lime Lake, NY)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Tarja Penttila,90667,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+236,435,"Wingtip Toys (Teutopolis, IL)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Devendranath Huq,90269,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+237,436,"Wingtip Toys (Gargatha, VA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Enes Olsson,90752,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+238,437,"Wingtip Toys (Cadogan, PA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Vanja Grgic,90357,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+239,438,"Wingtip Toys (Lucasville, OH)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Dayaram Mishra,90391,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+240,439,"Wingtip Toys (Cylon, WI)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Mina Omidzadeh,90266,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+241,440,"Wingtip Toys (Asher, OK)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Kadir Usenuly,90683,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+242,441,"Wingtip Toys (Keosauqua, IA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Kajsa Jakobsson,90281,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+243,442,"Wingtip Toys (Homer City, PA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Rahul Ghate,90713,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+244,443,"Wingtip Toys (Berville, MI)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Lien Banh,90628,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+245,444,"Wingtip Toys (Tea, SD)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Divyendu Chakraborty,90641,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+246,445,"Wingtip Toys (Dacono, CO)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,An Dung Ngo,90289,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+247,446,"Wingtip Toys (Saint Landry, LA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Chetana Kamath,90033,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+248,447,"Wingtip Toys (Coin, IA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Premwadee Saowaluk,90458,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+249,448,"Wingtip Toys (Salt Wells, NV)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Jae-Hwa Min,90058,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+250,449,"Wingtip Toys (Delray, WV)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Catalina Nechita,90317,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+251,450,"Wingtip Toys (Mount Summit, IN)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Constanza Laureano,90142,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+252,451,"Wingtip Toys (Smoot, WY)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Aakriti Bhamidipati,90071,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+253,452,"Wingtip Toys (Lake Davis, CA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Himadri PrabhupÄda,90719,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+254,453,"Wingtip Toys (Stanardsville, VA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Bryan Helms,90739,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+255,454,"Wingtip Toys (Corcovado, PR)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Harri Kask,90498,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+256,455,"Wingtip Toys (Taft Heights, CA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Ilse Sandell,90304,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+257,456,"Wingtip Toys (West Hempstead, NY)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Subhash Matondkar,90799,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+258,457,"Wingtip Toys (Portales, NM)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Eesvaraavu Ankitham,90304,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+259,458,"Wingtip Toys (Coker, AL)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Miguel Paez,90364,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+260,459,"Wingtip Toys (Haydenville, OH)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Tobias Gruber,90519,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+261,460,"Wingtip Toys (Mayhill, NM)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Daniela Dumina,90741,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+262,461,"Wingtip Toys (Vair, TX)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Ganesh Mukherjee,90707,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+263,462,"Wingtip Toys (Crossroads, NM)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Avanti Nishad,90068,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+264,463,"Wingtip Toys (Cowlington, OK)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Daedeepya Thota,90524,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+265,464,"Wingtip Toys (Glen Ullin, ND)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Gabriela Chirila,90380,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+266,465,"Wingtip Toys (Oologah, OK)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Nagur Atluri,90439,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+267,466,"Wingtip Toys (Lytle, TX)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Sintja Buecek,90706,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+268,467,"Wingtip Toys (Mahaffey, PA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Pongrit Srisati,90361,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+269,468,"Wingtip Toys (Sunburg, MN)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Linda Green,90477,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+270,469,"Wingtip Toys (Johnetta, KY)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Sarmis Skujins,90699,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+271,470,"Wingtip Toys (Universal City, TX)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Libuse Srbova,90500,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+272,471,"Wingtip Toys (Ridgemark, CA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Viktorie Stejskalova,90667,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+0,0,Unknown,N/A,N/A,N/A,N/A,N/A,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,0
+1,1,Tailspin Toys (Head Office),Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Waldemar Fisar,90410,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+2,2,"Tailspin Toys (Sylvanite, MT)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Lorena Cindric,90216,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+3,3,"Tailspin Toys (Peeples Valley, AZ)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Bhaargav Rambhatla,90205,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+4,4,"Tailspin Toys (Medicine Lodge, KS)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Daniel Roman,90152,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+5,5,"Tailspin Toys (Gasport, NY)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Johanna Huiting,90261,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+6,6,"Tailspin Toys (Jessie, ND)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Biswajeet Thakur,90298,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+7,7,"Tailspin Toys (Frankewing, TN)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Kalidas Nadar,90761,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+8,8,"Tailspin Toys (Bow Mar, CO)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Kanti Kotadia,90484,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+9,9,"Tailspin Toys (Netcong, NJ)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Sointu Aalto,90129,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+10,10,"Tailspin Toys (Wimbledon, ND)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Siddhartha Parkar,90061,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+11,11,"Tailspin Toys (Devault, PA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Elnaz Javan,90185,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+12,12,"Tailspin Toys (Biscay, MN)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Heloisa Fernandes,90054,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+13,13,"Tailspin Toys (Stonefort, IL)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Razeena Hosseini,90685,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+14,14,"Tailspin Toys (Long Meadow, MD)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Tereza Valentova,90633,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+15,15,"Tailspin Toys (Batson, TX)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Filips Jaunzems,90631,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+16,16,"Tailspin Toys (Coney Island, MO)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Nitin Matondkar,90467,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+17,17,"Tailspin Toys (East Fultonham, OH)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Adam Kubat,90416,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+18,18,"Tailspin Toys (Goffstown, NH)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Isabelle Vodlan,90321,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+19,19,"Tailspin Toys (Lemeta, AK)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Mithun Bhattacharya,90303,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+20,20,"Tailspin Toys (College Place, WA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Nghi Hua,90050,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+21,21,"Tailspin Toys (Tresckow, PA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Duleep Raju,90790,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+22,22,"Tailspin Toys (Ward Ridge, FL)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Cristina Longo,90784,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+23,23,"Tailspin Toys (Ikatan, AK)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Hang Tang,90019,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+24,24,"Tailspin Toys (Dundarrach, NC)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Intira Mookjai,90758,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+25,25,"Tailspin Toys (Avenal, CA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Sulabha Khalsa,90352,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+26,26,"Tailspin Toys (Hedrick, IA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Dhanishta Majji,90331,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+27,27,"Tailspin Toys (Bowlus, MN)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Paula Gonzales,90703,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+28,28,"Tailspin Toys (North Ridge, NY)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Tatjana Utjesenovic,90024,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+29,29,"Tailspin Toys (Eulaton, AL)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Karel Hanak,90571,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+30,30,"Tailspin Toys (Koontzville, WA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Odessa Schneider,90288,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+31,31,"Tailspin Toys (Lake Stevens, WA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Kimberly Pace,90394,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+32,32,"Tailspin Toys (Maypearl, TX)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Nikolajs Kalejs,90087,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+33,33,"Tailspin Toys (Boyden Arbor, SC)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Haasini Rai,90497,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+34,34,"Tailspin Toys (Dallardsville, TX)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Anjali Asthana,90041,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+35,35,"Tailspin Toys (Slanesville, WV)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Shah Omidi,90601,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+36,36,"Tailspin Toys (Ekron, KY)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Ferhat Celik,90603,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+37,37,"Tailspin Toys (Kerby, OR)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Dayarama Kamei,90686,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+38,38,"Tailspin Toys (Airport Drive, MO)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Nils Kalnins,90211,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+195,195,"Tailspin Toys (Lesslie, SC)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Viollette Monty,90771,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+196,196,"Tailspin Toys (Howells, NE)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Alinne Cardoso,90444,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+197,197,"Tailspin Toys (Magalia, CA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Mani Poddar,90226,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+198,198,"Tailspin Toys (Buell, MO)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Deakshitulu Mokkapati,90113,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+199,199,"Tailspin Toys (Antonito, CO)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Cezar Pavel,90346,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+200,200,"Tailspin Toys (Tooele, UT)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Fanni Benko,90100,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+201,201,"Tailspin Toys (Skyway, WA)",Tailspin Toys (Head Office),Novelty Shop,Tailspin Toys,Brenda Morgan,90588,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+202,401,Wingtip Toys (Head Office),Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Olga Alexandrova,90625,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+203,402,"Wingtip Toys (Black Lick, PA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Maris Baltins,90477,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+204,403,"Wingtip Toys (Queen Valley, AZ)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Parsa Reuser,90588,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+205,404,"Wingtip Toys (Penns Creek, PA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Duleep Srivastava,90195,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+206,405,"Wingtip Toys (Bourbonnais, IL)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Miran Nikolic,90582,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+207,406,"Wingtip Toys (Tuscaloosa, AL)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Calin Bojin,90011,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+208,407,"Wingtip Toys (Mooringsport, LA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Lang Le,90387,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+209,408,"Wingtip Toys (Rockwall, TX)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Bhaagyalakshmi Muppavarapu,90500,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+210,409,"Wingtip Toys (Orick, CA)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Dimitry Nechita,90329,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+211,410,"Wingtip Toys (Bernstein, TX)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Miroslav Kohout,90314,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
+212,411,"Wingtip Toys (Edmund, WI)",Wingtip Toys (Head Office),Novelty Shop,Wingtip Toys,Fransje Mutlu,90777,2013-01-01T00:00:00.000Z,9999-12-31T23:59:59.999Z,2
