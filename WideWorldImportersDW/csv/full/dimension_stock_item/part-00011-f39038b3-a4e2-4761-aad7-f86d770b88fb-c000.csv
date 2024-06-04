@@ -1,0 +1,122 @@
+StockItemKey,WWIStockItemID,StockItem,Color,SellingPackage,BuyingPackage,Brand,Size,LeadTimeDays,QuantityPerOuter,IsChillerStock,Barcode,TaxRate,UnitPrice,RecommendedRetailPrice,TypicalWeightPerUnit,Photo,ValidFrom,ValidTo,LineageKey
+27,193,Black and orange glass with care despatch tape 48mmx75m,N/A,Each,Each,N/A,48mmx75m,14,24,false,N/A,14.000,3.70,5.53,0.500,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+28,192,Black and orange fragile despatch tape 48mmx100m,N/A,Each,Each,N/A,48mmx100m,14,36,false,N/A,14.000,4.10,6.13,0.700,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+29,191,Black and orange fragile despatch tape 48mmx75m,N/A,Each,Each,N/A,48mmx75m,14,36,false,N/A,14.000,3.70,5.53,0.500,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+30,190,Clear packaging tape 48mmx100m,N/A,Each,Each,N/A,48mmx100m,14,20,false,N/A,14.000,3.50,5.23,0.700,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+31,189,Clear packaging tape 48mmx75m,N/A,Each,Each,N/A,48mmx75m,14,26,false,N/A,14.000,2.90,4.34,0.500,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+32,188,3 kg Courier post bag (White) 300x190x95mm,N/A,Each,Each,N/A,300x190x95mm,14,25,false,N/A,14.000,0.66,0.99,0.100,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+33,187,Express post box 5kg (White) 350x280x130mm,N/A,Each,Each,N/A,350x280x130mm,14,25,false,N/A,14.000,0.95,1.42,0.200,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+34,186,Shipping carton (Brown) 457x457x457mm,N/A,Each,Each,N/A,457x457x457mm,14,25,false,N/A,14.000,2.10,3.14,0.400,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+35,185,Shipping carton (Brown) 356x356x279mm,N/A,Each,Each,N/A,356x356x279mm,14,25,false,N/A,14.000,2.04,3.05,0.300,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+36,184,Shipping carton (Brown) 305x305x305mm,N/A,Each,Each,N/A,305x305x305mm,14,25,false,N/A,14.000,3.50,5.23,0.300,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+37,183,Shipping carton (Brown) 480x270x320mm,N/A,Each,Each,N/A,480x270x320mm,14,25,false,N/A,14.000,2.74,4.10,0.400,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+38,182,Shipping carton (Brown) 457x279x279mm,N/A,Each,Each,N/A,457x279x279mm,14,25,false,N/A,14.000,1.28,1.91,0.400,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+39,181,Shipping carton (Brown) 356x229x229mm,N/A,Each,Each,N/A,356x229x229mm,14,25,false,N/A,14.000,1.14,1.70,0.400,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+40,180,Shipping carton (Brown) 279x254x217mm,N/A,Each,Each,N/A,279x254x217mm,14,25,false,N/A,14.000,1.11,1.66,0.300,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+41,179,Shipping carton (Brown) 229x229x229mm,N/A,Each,Each,N/A,229x229x229mm,14,25,false,N/A,14.000,1.05,1.57,0.300,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+42,178,Shipping carton (Brown) 500x310x310mm,N/A,Each,Each,N/A,500x310x310mm,14,25,false,N/A,14.000,2.55,3.81,0.400,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+43,177,Shipping carton (Brown) 413x285x187mm,N/A,Each,Each,N/A,413x285x187mm,14,25,false,N/A,14.000,1.05,1.57,0.300,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+44,176,Bubblewrap dispenser (Red) 1.5m,Red,Each,Each,N/A,1.5m,14,1,false,N/A,14.000,240.00,358.80,10.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+45,175,Bubblewrap dispenser (Blue) 1.5m,Blue,Each,Each,N/A,1.5m,14,1,false,N/A,14.000,240.00,358.80,10.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+46,174,Bubblewrap dispenser (Black) 1.5m,Black,Each,Each,N/A,1.5m,14,1,false,N/A,14.000,240.00,358.80,10.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+47,173,32 mm Anti static bubble wrap (Blue) 50m,Blue,Each,Each,N/A,50m,14,10,false,N/A,14.000,105.00,156.98,10.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+48,172,32 mm Anti static bubble wrap (Blue) 20m,Blue,Each,Each,N/A,20m,14,10,false,N/A,14.000,48.00,71.76,6.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+49,171,32 mm Anti static bubble wrap (Blue) 10m,Blue,Each,Each,N/A,10m,14,10,false,N/A,14.000,32.00,47.84,5.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+50,170,20 mm Anti static bubble wrap (Blue) 50m,Blue,Each,Each,N/A,50m,14,10,false,N/A,14.000,102.00,152.49,10.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+51,169,20 mm Anti static bubble wrap (Blue) 20m,Blue,Each,Each,N/A,20m,14,10,false,N/A,14.000,45.00,67.28,6.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+52,168,20 mm Anti static bubble wrap (Blue) 10m,Blue,Each,Each,N/A,10m,14,10,false,N/A,14.000,29.00,43.36,5.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+53,167,10 mm Anti static bubble wrap (Blue) 50m,Blue,Each,Each,N/A,50m,14,10,false,N/A,14.000,99.00,148.01,10.000,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+216,4,USB food flash drive - sushi roll,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+217,3,Office cube periscope (Black),Black,Each,Carton,N/A,N/A,14,10,false,N/A,14.000,18.50,27.66,0.250,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+218,2,USB rocket launcher (Gray),Gray,Each,Each,N/A,N/A,14,1,false,N/A,14.000,25.00,37.38,0.300,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+219,1,USB missile launcher (Green),N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,25.00,37.38,0.300,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+220,221,Novelty chilli chocolates 500g,N/A,Bag,Carton,N/A,500g,3,12,true,8302039293647,3.000,14.50,20.74,0.500,,2016-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+221,220,Novelty chilli chocolates 250g,N/A,Bag,Carton,N/A,250g,3,24,true,8302039293929,3.000,8.55,12.23,0.250,,2016-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+222,223,Chocolate echidnas 250g,N/A,Bag,Carton,N/A,250g,3,24,true,8792838293728,3.000,8.55,12.23,0.250,,2016-01-02T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+223,222,Chocolate beetles 250g,N/A,Bag,Carton,N/A,250g,3,24,true,8792838293820,3.000,8.55,12.23,0.250,,2016-01-02T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+224,225,Chocolate sharks 250g,N/A,Bag,Carton,N/A,250g,3,24,true,8792838293234,3.000,8.55,12.23,0.250,,2016-01-04T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+225,224,Chocolate frogs 250g,N/A,Bag,Carton,N/A,250g,3,24,true,8792838293987,3.000,8.55,12.23,0.250,,2016-01-04T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+226,227,White chocolate moon rocks 250g,N/A,Bag,Carton,N/A,250g,3,24,true,8792838293289,3.000,8.55,12.23,0.250,,2016-01-05T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+227,226,White chocolate snow balls 250g,N/A,Bag,Carton,N/A,250g,3,24,true,8792838293236,3.000,8.55,12.23,0.250,,2016-01-05T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+228,66,RC big wheel monster truck with remote control (Black) 1/50 scale,Black,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,45.00,67.28,1.800,,2016-05-31T23:00:00.000Z,2016-05-31T23:01:00.000Z,5
+229,65,RC vintage American toy coupe with remote control (Black) 1/50 scale,Black,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,30.00,44.85,1.700,,2016-05-31T23:00:00.000Z,2016-05-31T23:01:00.000Z,5
+230,64,RC vintage American toy coupe with remote control (Red) 1/50 scale,Red,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,30.00,44.85,1.700,,2016-05-31T23:00:00.000Z,2016-05-31T23:01:00.000Z,5
+231,63,RC toy sedan car with remote control (Pink) 1/50 scale,N/A,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,25.00,37.38,1.500,,2016-05-31T23:00:00.000Z,2016-05-31T23:01:00.000Z,5
+232,62,RC toy sedan car with remote control (Yellow) 1/50 scale,Yellow,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,25.00,37.38,1.500,,2016-05-31T23:00:00.000Z,2016-05-31T23:01:00.000Z,5
+233,61,RC toy sedan car with remote control (Green) 1/50 scale,N/A,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,25.00,37.38,1.500,,2016-05-31T23:00:00.000Z,2016-05-31T23:01:00.000Z,5
+234,60,RC toy sedan car with remote control (Blue) 1/50 scale,Blue,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,25.00,37.38,1.500,,2016-05-31T23:00:00.000Z,2016-05-31T23:01:00.000Z,5
+235,59,RC toy sedan car with remote control (Red) 1/50 scale,Red,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,25.00,37.38,1.500,,2016-05-31T23:00:00.000Z,2016-05-31T23:01:00.000Z,5
+236,58,RC toy sedan car with remote control (Black) 1/50 scale,Black,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,25.00,37.38,1.500,,2016-05-31T23:00:00.000Z,2016-05-31T23:01:00.000Z,5
+237,15,USB food flash drive - dessert 10 drive variety pack,N/A,Packet,Packet,N/A,N/A,14,1,false,N/A,14.000,240.00,358.80,0.500,,2016-05-31T23:00:00.000Z,2016-05-31T23:09:00.000Z,5
+238,14,USB food flash drive - fortune cookie,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:00:00.000Z,2016-05-31T23:09:00.000Z,5
+239,13,USB food flash drive - shrimp cocktail,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:00:00.000Z,2016-05-31T23:09:00.000Z,5
+240,12,USB food flash drive - donut,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:00:00.000Z,2016-05-31T23:09:00.000Z,5
+241,11,USB food flash drive - cookie,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:00:00.000Z,2016-05-31T23:09:00.000Z,5
+242,10,USB food flash drive - chocolate bar,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:00:00.000Z,2016-05-31T23:09:00.000Z,5
+378,119,Dinosaur battery-powered slippers (Green) M,N/A,Each,Each,N/A,M,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:00:00.000Z,2016-05-31T23:07:00.000Z,5
+379,118,Dinosaur battery-powered slippers (Green) S,N/A,Each,Each,N/A,S,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:00:00.000Z,2016-05-31T23:07:00.000Z,5
+380,149,Halloween skull mask (Gray) XL,Steel Gray,Each,Carton,N/A,XL,12,12,false,N/A,12.000,18.00,26.91,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:04:00.000Z,5
+381,148,Halloween skull mask (Gray) L,Steel Gray,Each,Carton,N/A,L,12,12,false,N/A,12.000,18.00,26.91,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:04:00.000Z,5
+382,147,Halloween skull mask (Gray) M,Steel Gray,Each,Carton,N/A,M,12,12,false,N/A,12.000,18.00,26.91,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:04:00.000Z,5
+383,146,Halloween skull mask (Gray) S,Steel Gray,Each,Carton,N/A,S,12,12,false,N/A,12.000,18.00,26.91,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:04:00.000Z,5
+384,145,Halloween zombie mask (Light Brown) XL,Light Brown,Each,Carton,N/A,XL,12,12,false,N/A,12.000,18.00,26.91,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:04:00.000Z,5
+385,144,Halloween zombie mask (Light Brown) L,Light Brown,Each,Carton,N/A,L,12,12,false,N/A,12.000,18.00,26.91,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:04:00.000Z,5
+386,143,Halloween zombie mask (Light Brown) M,Light Brown,Each,Carton,N/A,M,12,12,false,N/A,12.000,18.00,26.91,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:04:00.000Z,5
+387,142,Halloween zombie mask (Light Brown) S,Light Brown,Each,Carton,N/A,S,12,12,false,N/A,12.000,18.00,26.91,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:04:00.000Z,5
+388,152,Pack of 12 action figures (female),N/A,Packet,Packet,N/A,N/A,2,1,false,N/A,2.000,16.00,23.92,0.250,,2016-05-31T23:00:00.000Z,2016-05-31T23:05:00.000Z,5
+389,151,Pack of 12 action figures (male),N/A,Packet,Packet,N/A,N/A,2,1,false,N/A,2.000,16.00,23.92,0.250,,2016-05-31T23:00:00.000Z,2016-05-31T23:05:00.000Z,5
+390,150,Pack of 12 action figures (variety),N/A,Packet,Packet,N/A,N/A,2,1,false,N/A,2.000,16.00,23.92,0.250,,2016-05-31T23:00:00.000Z,2016-05-31T23:05:00.000Z,5
+391,75,Ride on big wheel monster truck (Black) 1/12 scale,Black,Each,Each,Northwind,1/12 scale,14,1,false,N/A,14.000,345.00,515.78,21.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:06:00.000Z,5
+392,72,Ride on toy sedan car (Pink) 1/12 scale,N/A,Each,Each,Northwind,1/12 scale,14,1,false,N/A,14.000,230.00,343.85,15.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:06:00.000Z,5
+393,71,Ride on toy sedan car (Yellow) 1/12 scale,Yellow,Each,Each,Northwind,1/12 scale,14,1,false,N/A,14.000,230.00,343.85,15.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:06:00.000Z,5
+394,70,Ride on toy sedan car (Green) 1/12 scale,N/A,Each,Each,Northwind,1/12 scale,14,1,false,N/A,14.000,230.00,343.85,15.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:06:00.000Z,5
+395,69,Ride on toy sedan car (Blue) 1/12 scale,Blue,Each,Each,Northwind,1/12 scale,14,1,false,N/A,14.000,230.00,343.85,15.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:06:00.000Z,5
+396,68,Ride on toy sedan car (Red) 1/12 scale,Red,Each,Each,Northwind,1/12 scale,14,1,false,N/A,14.000,230.00,343.85,15.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:06:00.000Z,5
+397,67,Ride on toy sedan car (Black) 1/12 scale,Black,Each,Each,Northwind,1/12 scale,14,1,false,N/A,14.000,230.00,343.85,15.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:06:00.000Z,5
+398,3,Office cube periscope (Black),Black,Each,Carton,N/A,N/A,14,10,false,N/A,14.000,18.50,27.66,0.250,,2016-05-31T23:00:00.000Z,9999-12-31T23:59:59.999Z,5
+399,76,"\"The Gu\" red shirt XML tag t-shirt (White) 3XS",White,Each,Carton,N/A,3XS,7,12,false,N/A,7.000,18.00,26.91,0.250,,2016-05-31T23:00:00.000Z,9999-12-31T23:59:59.999Z,5
+400,77,"\"The Gu\" red shirt XML tag t-shirt (White) XXS",White,Each,Carton,N/A,XXS,7,12,false,N/A,7.000,18.00,26.91,0.250,,2016-05-31T23:00:00.000Z,9999-12-31T23:59:59.999Z,5
+401,78,"\"The Gu\" red shirt XML tag t-shirt (White) XS",White,Each,Carton,N/A,XS,7,12,false,N/A,7.000,18.00,26.91,0.250,,2016-05-31T23:00:00.000Z,9999-12-31T23:59:59.999Z,5
+402,79,"\"The Gu\" red shirt XML tag t-shirt (White) S",White,Each,Carton,N/A,S,7,12,false,N/A,7.000,18.00,26.91,0.300,,2016-05-31T23:00:00.000Z,9999-12-31T23:59:59.999Z,5
+403,80,"\"The Gu\" red shirt XML tag t-shirt (White) M",White,Each,Carton,N/A,M,7,12,false,N/A,7.000,18.00,26.91,0.350,,2016-05-31T23:00:00.000Z,9999-12-31T23:59:59.999Z,5
+404,81,"\"The Gu\" red shirt XML tag t-shirt (White) L",White,Each,Carton,N/A,L,7,12,false,N/A,7.000,18.00,26.91,0.350,,2016-05-31T23:00:00.000Z,9999-12-31T23:59:59.999Z,5
+513,121,Dinosaur battery-powered slippers (Green) XL,N/A,Each,Each,N/A,XL,12,1,false,N/A,12.000,32.00,47.84,0.400,,2016-05-31T23:07:00.000Z,2016-05-31T23:08:00.000Z,5
+514,120,Dinosaur battery-powered slippers (Green) L,N/A,Each,Each,N/A,L,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:07:00.000Z,2016-05-31T23:08:00.000Z,5
+515,119,Dinosaur battery-powered slippers (Green) M,N/A,Each,Each,N/A,M,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:07:00.000Z,2016-05-31T23:08:00.000Z,5
+516,118,Dinosaur battery-powered slippers (Green) S,N/A,Each,Each,N/A,S,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:07:00.000Z,2016-05-31T23:08:00.000Z,5
+517,118,Dinosaur battery-powered slippers (Green) S,N/A,Each,Each,N/A,S,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+518,119,Dinosaur battery-powered slippers (Green) M,N/A,Each,Each,N/A,M,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+519,120,Dinosaur battery-powered slippers (Green) L,N/A,Each,Each,N/A,L,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+520,121,Dinosaur battery-powered slippers (Green) XL,N/A,Each,Each,N/A,XL,12,1,false,N/A,12.000,32.00,47.84,0.400,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+521,122,Ogre battery-powered slippers (Green) S,N/A,Each,Each,N/A,S,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+522,123,Ogre battery-powered slippers (Green) M,N/A,Each,Each,N/A,M,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+523,124,Ogre battery-powered slippers (Green) L,N/A,Each,Each,N/A,L,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+524,125,Ogre battery-powered slippers (Green) XL,N/A,Each,Each,N/A,XL,12,1,false,N/A,12.000,32.00,47.84,0.400,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+525,126,Plush shark slippers (Gray) S,Steel Gray,Each,Each,N/A,S,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+526,127,Plush shark slippers (Gray) M,Steel Gray,Each,Each,N/A,M,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+527,128,Plush shark slippers (Gray) L,Steel Gray,Each,Each,N/A,L,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+528,129,Plush shark slippers (Gray) XL,Steel Gray,Each,Each,N/A,XL,12,1,false,N/A,12.000,32.00,47.84,0.400,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+529,130,Furry gorilla with big eyes slippers (Black) S,Black,Each,Each,N/A,S,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+530,131,Furry gorilla with big eyes slippers (Black) M,Black,Each,Each,N/A,M,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+531,132,Furry gorilla with big eyes slippers (Black) L,Black,Each,Each,N/A,L,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+532,133,Furry gorilla with big eyes slippers (Black) XL,Black,Each,Each,N/A,XL,12,1,false,N/A,12.000,32.00,47.84,0.400,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+533,134,Animal with big feet slippers (Brown) S,N/A,Each,Each,N/A,S,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+534,135,Animal with big feet slippers (Brown) M,N/A,Each,Each,N/A,M,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+535,136,Animal with big feet slippers (Brown) L,N/A,Each,Each,N/A,L,12,1,false,N/A,12.000,32.00,47.84,0.350,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+536,137,Animal with big feet slippers (Brown) XL,N/A,Each,Each,N/A,XL,12,1,false,N/A,12.000,32.00,47.84,0.400,,2016-05-31T23:08:00.000Z,9999-12-31T23:59:59.999Z,5
+537,15,USB food flash drive - dessert 10 drive variety pack,N/A,Packet,Packet,N/A,N/A,14,1,false,N/A,14.000,240.00,358.80,0.500,,2016-05-31T23:09:00.000Z,2016-05-31T23:11:00.000Z,5
+538,14,USB food flash drive - fortune cookie,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:09:00.000Z,2016-05-31T23:11:00.000Z,5
+539,13,USB food flash drive - shrimp cocktail,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:09:00.000Z,2016-05-31T23:11:00.000Z,5
+162,58,RC toy sedan car with remote control (Black) 1/50 scale,Black,Each,Each,Northwind,1/50 scale,14,1,false,N/A,14.000,25.00,37.38,1.500,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+163,57,IT joke mug - hardware: part of the computer that can be kicked (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+164,56,IT joke mug - hardware: part of the computer that can be kicked (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+165,55,IT joke mug - that behavior is by design (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+166,54,IT joke mug - that behavior is by design (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+167,53,IT joke mug - keyboard not found … press F1 to continue (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+168,52,IT joke mug - keyboard not found … press F1 to continue (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+169,51,Developer joke mug - old C developers never die (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+170,50,Developer joke mug - old C developers never die (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+171,49,Developer joke mug - this code was generated by a tool (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+172,48,Developer joke mug - this code was generated by a tool (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+173,47,Developer joke mug - a foo walks into a bar (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+174,46,Developer joke mug - a foo walks into a bar (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5

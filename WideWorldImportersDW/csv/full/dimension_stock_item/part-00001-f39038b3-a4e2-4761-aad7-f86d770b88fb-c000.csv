@@ -1,0 +1,69 @@
+StockItemKey,WWIStockItemID,StockItem,Color,SellingPackage,BuyingPackage,Brand,Size,LeadTimeDays,QuantityPerOuter,IsChillerStock,Barcode,TaxRate,UnitPrice,RecommendedRetailPrice,TypicalWeightPerUnit,Photo,ValidFrom,ValidTo,LineageKey
+175,45,Developer joke mug - there are 10 types of people in the world (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+176,44,Developer joke mug - there are 10 types of people in the world (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+177,43,Developer joke mug - understanding recursion requires understanding recursion (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+178,42,Developer joke mug - understanding recursion requires understanding recursion (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+179,41,"Developer joke mug - (hip, hip, array) (Black)",Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+180,40,"Developer joke mug - (hip, hip, array) (White)",White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+181,39,Developer joke mug - inheritance is the OO way to become wealthy (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+182,38,Developer joke mug - inheritance is the OO way to become wealthy (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+183,37,Developer joke mug - when your hammer is C++ (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+184,36,Developer joke mug - when your hammer is C++ (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+185,35,Developer joke mug - fun was unexpected at this time (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+186,34,Developer joke mug - fun was unexpected at this time (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+187,33,Developer joke mug - that's a hardware problem (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+188,32,Developer joke mug - that's a hardware problem (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2013-01-01T00:00:00.000Z,2016-05-31T23:00:00.000Z,5
+324,188,3 kg Courier post bag (White) 300x190x95mm,N/A,Each,Each,N/A,300x190x95mm,14,25,false,N/A,14.000,0.66,0.99,0.100,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+325,187,Express post box 5kg (White) 350x280x130mm,N/A,Each,Each,N/A,350x280x130mm,14,25,false,N/A,14.000,0.95,1.42,0.200,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+326,186,Shipping carton (Brown) 457x457x457mm,N/A,Each,Each,N/A,457x457x457mm,14,25,false,N/A,14.000,2.10,3.14,0.400,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+327,185,Shipping carton (Brown) 356x356x279mm,N/A,Each,Each,N/A,356x356x279mm,14,25,false,N/A,14.000,2.04,3.05,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+328,184,Shipping carton (Brown) 305x305x305mm,N/A,Each,Each,N/A,305x305x305mm,14,25,false,N/A,14.000,3.50,5.23,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+329,183,Shipping carton (Brown) 480x270x320mm,N/A,Each,Each,N/A,480x270x320mm,14,25,false,N/A,14.000,2.74,4.10,0.400,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+330,182,Shipping carton (Brown) 457x279x279mm,N/A,Each,Each,N/A,457x279x279mm,14,25,false,N/A,14.000,1.28,1.91,0.400,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+331,181,Shipping carton (Brown) 356x229x229mm,N/A,Each,Each,N/A,356x229x229mm,14,25,false,N/A,14.000,1.14,1.70,0.400,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+332,180,Shipping carton (Brown) 279x254x217mm,N/A,Each,Each,N/A,279x254x217mm,14,25,false,N/A,14.000,1.11,1.66,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+333,179,Shipping carton (Brown) 229x229x229mm,N/A,Each,Each,N/A,229x229x229mm,14,25,false,N/A,14.000,1.05,1.57,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+334,178,Shipping carton (Brown) 500x310x310mm,N/A,Each,Each,N/A,500x310x310mm,14,25,false,N/A,14.000,2.55,3.81,0.400,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+335,177,Shipping carton (Brown) 413x285x187mm,N/A,Each,Each,N/A,413x285x187mm,14,25,false,N/A,14.000,1.05,1.57,0.300,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+336,176,Bubblewrap dispenser (Red) 1.5m,Red,Each,Each,N/A,1.5m,14,1,false,N/A,14.000,240.00,358.80,10.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+337,175,Bubblewrap dispenser (Blue) 1.5m,Blue,Each,Each,N/A,1.5m,14,1,false,N/A,14.000,240.00,358.80,10.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+338,174,Bubblewrap dispenser (Black) 1.5m,Black,Each,Each,N/A,1.5m,14,1,false,N/A,14.000,240.00,358.80,10.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+339,173,32 mm Anti static bubble wrap (Blue) 50m,Blue,Each,Each,N/A,50m,14,10,false,N/A,14.000,105.00,156.98,10.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+340,172,32 mm Anti static bubble wrap (Blue) 20m,Blue,Each,Each,N/A,20m,14,10,false,N/A,14.000,48.00,71.76,6.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+341,171,32 mm Anti static bubble wrap (Blue) 10m,Blue,Each,Each,N/A,10m,14,10,false,N/A,14.000,32.00,47.84,5.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+342,170,20 mm Anti static bubble wrap (Blue) 50m,Blue,Each,Each,N/A,50m,14,10,false,N/A,14.000,102.00,152.49,10.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+343,169,20 mm Anti static bubble wrap (Blue) 20m,Blue,Each,Each,N/A,20m,14,10,false,N/A,14.000,45.00,67.28,6.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+344,168,20 mm Anti static bubble wrap (Blue) 10m,Blue,Each,Each,N/A,10m,14,10,false,N/A,14.000,29.00,43.36,5.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+345,167,10 mm Anti static bubble wrap (Blue) 50m,Blue,Each,Each,N/A,50m,14,10,false,N/A,14.000,99.00,148.01,10.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+346,166,10 mm Anti static bubble wrap (Blue) 20m,Blue,Each,Each,N/A,20m,14,10,false,N/A,14.000,42.00,62.79,6.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+347,165,10 mm Anti static bubble wrap (Blue) 10m,Blue,Each,Each,N/A,10m,14,10,false,N/A,14.000,26.00,38.87,5.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+348,164,32 mm Double sided bubble wrap 50m,N/A,Each,Each,N/A,50m,14,10,false,N/A,14.000,112.00,167.44,10.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+349,163,32 mm Double sided bubble wrap 20m,N/A,Each,Each,N/A,20m,14,10,false,N/A,14.000,37.00,55.32,6.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+350,162,32 mm Double sided bubble wrap 10m,N/A,Each,Each,N/A,10m,14,10,false,N/A,14.000,22.00,32.89,5.000,,2016-05-31T23:00:00.000Z,2016-05-31T23:12:00.000Z,5
+567,34,Developer joke mug - fun was unexpected at this time (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+568,35,Developer joke mug - fun was unexpected at this time (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+569,36,Developer joke mug - when your hammer is C++ (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+570,37,Developer joke mug - when your hammer is C++ (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+571,38,Developer joke mug - inheritance is the OO way to become wealthy (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+572,39,Developer joke mug - inheritance is the OO way to become wealthy (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+573,40,"Developer joke mug - (hip, hip, array) (White)",White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+574,41,"Developer joke mug - (hip, hip, array) (Black)",Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+575,42,Developer joke mug - understanding recursion requires understanding recursion (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+576,43,Developer joke mug - understanding recursion requires understanding recursion (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+577,44,Developer joke mug - there are 10 types of people in the world (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+578,45,Developer joke mug - there are 10 types of people in the world (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+579,46,Developer joke mug - a foo walks into a bar (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+580,47,Developer joke mug - a foo walks into a bar (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+581,48,Developer joke mug - this code was generated by a tool (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+582,49,Developer joke mug - this code was generated by a tool (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+583,50,Developer joke mug - old C developers never die (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+584,51,Developer joke mug - old C developers never die (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+585,52,IT joke mug - keyboard not found … press F1 to continue (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+586,53,IT joke mug - keyboard not found … press F1 to continue (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+587,54,IT joke mug - that behavior is by design (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+588,55,IT joke mug - that behavior is by design (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+589,56,IT joke mug - hardware: part of the computer that can be kicked (White),White,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+590,57,IT joke mug - hardware: part of the computer that can be kicked (Black),Black,Each,Each,N/A,N/A,12,1,false,N/A,12.000,13.00,19.44,0.150,,2016-05-31T23:10:00.000Z,9999-12-31T23:59:59.999Z,5
+591,4,USB food flash drive - sushi roll,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:11:00.000Z,9999-12-31T23:59:59.999Z,5
+592,5,USB food flash drive - hamburger,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:11:00.000Z,9999-12-31T23:59:59.999Z,5
+593,6,USB food flash drive - hot dog,N/A,Each,Each,N/A,N/A,14,1,false,N/A,14.000,32.00,47.84,0.050,,2016-05-31T23:11:00.000Z,9999-12-31T23:59:59.999Z,5
